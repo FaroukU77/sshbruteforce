@@ -1,5 +1,5 @@
 <p align="center">
-<img title="SSHBrute" src="https://raw.githubusercontent.com/thexcoderz/SSHBrute/main/img-2.png" alt="SSHBrute"/>
+<img title="SSHBrute" src="image_1.png" alt="SSHBrute"/>
 </p>
 
 # SSHBrute
