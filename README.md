@@ -1,6 +1,4 @@
-<p align="center">
-<img title="SSHBrute" src="https://raw.githubusercontent.com/thexcoderz/SSHBrute/main/img-2.png" alt="SSHBrute"/>
-</p>
+
 
 # SSHBrute
 
@@ -10,7 +8,7 @@ A fast and lightweight SSH (secured shell) brute force tool made using Python. U
 ## Installation
 First of all clone or download the SSHBrute Project in your system. For Linux users just type the following command in the shell.
 ```bash
-$ git clone https://github.com/thexcoderz/SSHBrute.git
+$ https://github.com/FaroukU77/sshbruteforce.git
 ```
 You will need python3 installed in your system to use this tool. If you are using Linux then run the setup.sh script. It will automatically install and setup all the requirements.
 ```bash
@@ -71,10 +69,4 @@ options:
 This tool can be improved. I would love to see an improved version of this tool.
 You can use this tool for any purpose free of cost.
 ***
-## Images
-<p align="center">
-<img title="SSHBrute" src="https://raw.githubusercontent.com/thexcoderz/SSHBrute/main/img-1.png" alt="SSHBrute"/>
-</p>
-<p align="center">
-<img title="SSHBrute" src="https://raw.githubusercontent.com/thexcoderz/SSHBrute/main/img-3.png" alt="SSHBrute"/>
-</p>
+
