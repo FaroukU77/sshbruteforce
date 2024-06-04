@@ -10,7 +10,7 @@ A fast and lightweight SSH (secured shell) brute force tool made using Python. U
 ## Installation
 First of all clone or download the SSHBrute Project in your system. For Linux users just type the following command in the shell.
 ```bash
-$ https://github.com/FaroukU77/sshbruteforce.git
+$ git clone https://github.com/FaroukU77/sshbruteforce.git
 ```
 You will need python3 installed in your system to use this tool. If you are using Linux then run the setup.sh script. It will automatically install and setup all the requirements.
 ```bash
